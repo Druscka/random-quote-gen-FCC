@@ -1,0 +1,31 @@
+.wrap {
+  background:#678fe3;
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+
+}
+
+
+.quote {
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  width: 500px;
+  height: 300px;
+  border:2px solid #000;
+  background: #fff;
+  font-size: 20px;
+  text-align:center;
+  padding: 5px;
+}
+
+.buttons {
+  width:200px;
+  margin-top:30px;
+  display:flex;
+  justify-content:space-between;
+}
